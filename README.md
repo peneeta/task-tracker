@@ -1,6 +1,7 @@
-# AngularCrash
+# Angular Task Tracker
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
+Sample project to get familiar with Angular.
 
 ## Development server
 
